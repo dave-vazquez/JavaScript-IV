@@ -8,7 +8,6 @@ Prototype Refactor
 
 */
 
-
 class GameObject {
     constructor(attr){
         this.createdAt = attr.createdAt;
