@@ -172,14 +172,14 @@ const ron = new ProjectManager({
     location: 'California',
     age: 30, // no idea how old you are
     gender: 'male',
-    previousBackground: 'Multi-linguist',
+    previousBackground: 'Multi-Linguist',
     className: 'WEBPT5',
     favSubjects: [
         'Software Engineering',
         'Japanese',
         'React'
     ],
-    catchphrase: 'Anyways, enough of me rambling.', // XD --- i truly don't mind you rambling, you just say this a lot LOL!
+    catchphrase: 'catchphrase', 
     gradClassName: 'WEB12',
     favInstructor: 'Cam'
 });
@@ -188,7 +188,7 @@ const ron = new ProjectManager({
 const penelope = new ProjectManager({
     name: 'Penelope',
     location: 'New York',
-    age: 28, // no idea how old you are
+    age: 28,
     gender: 'female',
     previousBackground: 'Bar Tender',
     className: 'WEBPT5',
